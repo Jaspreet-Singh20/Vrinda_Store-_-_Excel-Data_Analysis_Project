@@ -49,7 +49,7 @@ Built an Excel dashboard to present key performance indicators and visual insigh
 
 ## Dashboard Preview
 
-[View Image.png – Vrinda Store Dashboard](https://1drv.ms/i/c/04623e14850b8fdd/IQD8FT5VRgUxRLSklhU9qLwHAQCb8_V_qMetrIgVlKbxSIw?e=9uNeJE)
+[View Image.png – Vrinda Store Dashboard](https://1drv.ms/x/c/04623e14850b8fdd/IQD6u6U8XzRyTJAvl5BmpYTrATBvThNYG5x_aFIc9D91BS4?e=wSnrJg)
 <img width="1757" height="652" alt="Screenshot 2026-09-25 165952" src="https://github.com/user-attachments/assets/cccbb32d-3de6-402c-8b10-28fed2a3ccd4" />
 
 **Image:** `Image.png`
